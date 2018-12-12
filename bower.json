@@ -1,0 +1,46 @@
+{
+  "name": "assistantx-lib",
+  "version": "1.0.0",
+  "description": "Assistant Lib",
+  "homepage": "https://assistantx.com",
+  "license": "MIT",
+  "author": {
+    "name": "Arturo Ortiz",
+    "email": "arturoortiz2002@hotmail.com",
+    "url": "https://assitantx.com"
+  },
+  "keywords": [
+    "assistantx",
+    "assets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/spiga/assistantx-lib.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/spiga/assistantx-lib/issues"
+  },
+  "ignore": [
+    ".DS_Store",
+    "**/.*",
+    "node_modules",
+    "*.mp4",
+    "*.ogv",
+    "*.webm",
+    "Gemfile",
+    "lib",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.0.0",
+  "_source": "https://gitlab.com/spiga/assistantx-lib.git",
+  "_target": "^1.1.0",
+  "_originalSource": "assistantx-assets",
+  "_direct": true,
+  "authors": [
+    "Mauricio Caballero <mauricio.caballero@gmail.com>"
+  ],
+  "main": "",
+  "private": false
+}
